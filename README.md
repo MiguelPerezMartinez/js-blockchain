@@ -1,15 +1,5 @@
 <h3 align="center">JS Blockchain Test</h3>
 
-<div align="center">
-
-  [![.github/workflows/ci.yml](https://github.com/Savjee/SavjeeCoin/actions/workflows/ci.yml/badge.svg)](https://github.com/Savjee/SavjeeCoin/actions/workflows/ci.yml)
-  [![Coverage Status](https://coveralls.io/repos/github/Savjee/SavjeeCoin/badge.svg?branch=master)](https://coveralls.io/github/Savjee/SavjeeCoin?branch=master)
-  [![GitHub Issues](https://img.shields.io/github/issues/Savjee/SavjeeCoin.svg)](https://github.com/Savjee/SavjeeCoin/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Savjee/SavjeeCoin.svg)](https://github.com/Savjee/SavjeeCoin/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
-</div>
-
 ---
 
 *⚠️ For education purposes only. This is by no means a complete implementation and it is by no means secure!*
